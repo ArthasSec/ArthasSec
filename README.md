@@ -42,6 +42,7 @@ class Mykhailo:
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Telegram](https://img.shields.io/badge/aiogram3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Infrastructure
 
@@ -50,18 +51,6 @@ class Mykhailo:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 
-<!-- TODO: добавить секцию Security/DevOps/etc — жду список от тебя -->
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthasSec&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArthasSec&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
